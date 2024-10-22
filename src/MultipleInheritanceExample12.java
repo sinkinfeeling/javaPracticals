@@ -6,7 +6,7 @@ interface Showable {
     void show();
 }
 
-class MultipleInheritanceExample11 implements Printable, Showable {
+class MultipleInheritanceExample12 implements Printable, Showable {
     public void print() {
         System.out.println("Printable interface method.");
     }
