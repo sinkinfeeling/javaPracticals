@@ -11,7 +11,7 @@ class Dog extends Animal {
     }
 }
 
-public class MethodOverridingExample12 {
+public class MethodOverridingExample13 {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.sound();
