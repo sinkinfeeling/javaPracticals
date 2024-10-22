@@ -1,4 +1,4 @@
-class Calculator10a {
+class Calculator {
     // Overloaded method for addition
     public int add(int a, int b) {
         return a + b;
@@ -13,7 +13,7 @@ class Calculator10a {
     }
 }
 
-public class MethodOverloadingExample {
+public class MethodOverloadingExample10a {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
